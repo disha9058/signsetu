@@ -1,6 +1,6 @@
 # SignSetu QA — Video Caption Processing Pipeline
 
-**Candidate:** Disha Pragati | **Role:** QA Analyst Intern  
+**Candidate:** DISHA9058,"DISHA_$(date +%s)" | **Role:** QA Analyst Intern  
 **Framework:** Python 3.11+ · Pytest · Requests
 
 ---
